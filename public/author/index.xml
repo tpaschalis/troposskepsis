@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Educenter | hugo education template</title>
-    <link>http://localhost:1313/educenter/site/author/</link>
+    <link>https://troposskepsis.fly.dev/author/</link>
     <description>Recent content in Authors on Educenter | hugo education template</description>
     <generator>Hugo</generator>
     <language>gr-el</language>
-    <atom:link href="http://localhost:1313/educenter/site/author/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://troposskepsis.fly.dev/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John doe</title>
-      <link>http://localhost:1313/educenter/site/author/john-doe/</link>
+      <link>https://troposskepsis.fly.dev/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/educenter/site/author/john-doe/</guid>
+      <guid>https://troposskepsis.fly.dev/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     <item>
       <title>Mark Dinn</title>
-      <link>http://localhost:1313/educenter/site/author/mark-dinn/</link>
+      <link>https://troposskepsis.fly.dev/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/educenter/site/author/mark-dinn/</guid>
+      <guid>https://troposskepsis.fly.dev/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
   </channel>
