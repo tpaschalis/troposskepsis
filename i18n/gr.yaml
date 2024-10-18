@@ -1,0 +1,110 @@
+- id: read_more
+  translation: Περισσότερα
+
+- id: contact_form
+  translation: Φόρμα Επικοινωνίας
+
+- id: send
+  translation: Στείλτε μήνυμα
+
+- id: contact_info
+  translation: Στοιχεία Επικοινωνίας
+
+- id: subscribe_newsletter
+  translation: Εγγραφείτε στο Newsletter
+
+- id: subscribe
+  translation: Εγγραφείτε
+
+- id: contact_us
+  translation: Επικοινωνήστε
+
+- id: latest_article
+  translation: Τελευταίο Άρθρο
+
+- id: categories
+  translation: Κατηγορίες
+
+- id: tags
+  translation: Tαμπέλες
+
+- id: see_all
+  translation: Δες τα όλα
+
+- id: apply_now
+  translation: Υπόβαλλε αίτηση
+
+- id: posted_by
+  translation: Ανεβασμένο από
+
+- id: date
+  translation: ημερομηνία
+
+- id: time
+  translation: ώρα
+
+- id: category
+  translation: Κατηγορία
+
+- id: related_course
+  translation: Σχετικά μαθήματα
+
+- id: duration
+  translation: διάρκεια
+
+- id: weekly
+  translation: εβδομαδιαία
+
+- id: fee
+  translation: κόστος
+
+- id: teacher
+  translation: καθηγητής
+
+- id: location
+  translation: τόπος
+
+- id: entry_fee
+  translation: αρχικό κόστος
+
+- id: event_speaker
+  translation: Ομιλητές
+
+- id: more_event
+  translation: Περισσότερες Εκδηλώσεις
+
+- id: join
+  translation: Γραφτείτε
+  
+- id: enter_email
+  translation: Προσθέστε το e-mail σας…
+
+- id: company
+  translation: εταιρία
+
+- id: links
+  translation: σύνδεσμοι
+
+- id: courses
+  translation: Μαθήματα
+
+- id: new_notice
+  translation: Νέο σημείωμα
+
+- id: call
+  translation: καλέστε
+
+- id: email
+  translation: email
+
+- id: all
+  translation: Όλα
+
+- id: interest
+  translation: Περιγραφή ενδιαφερόντων και δραστηριοτήτων
+
+- id: our_teachers
+  translation: Οι καθηγητές μας
+
+- id: download
+  translation: Κατεβάστε
